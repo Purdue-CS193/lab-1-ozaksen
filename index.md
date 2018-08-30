@@ -10,7 +10,7 @@
 - MATE
 - HEYYO
 - WOW THAT IS SO COOL
-![Image](https://avatars2.githubusercontent.com/u/10759936?s=400&v=4)
 
 ```
+![Image](https://avatars2.githubusercontent.com/u/10759936?s=400&v=4)
 
